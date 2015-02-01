@@ -8,6 +8,6 @@ If you want to see how it looks with the example.html, either rename one of the 
 
 ##Screenshots
 **Light**
-![https://s3.amazonaws.com/f.cl.ly/items/331k3F0z2m273a0g0q1F/Screen%20Shot%202015-02-01%20at%2001.39.23.png](Light)
+![Light](https://s3.amazonaws.com/f.cl.ly/items/331k3F0z2m273a0g0q1F/Screen%20Shot%202015-02-01%20at%2001.39.23.png)
 **Dark**
-![https://s3.amazonaws.com/f.cl.ly/items/282R3U453h2P2w1N3w02/Screen%20Shot%202015-02-01%20at%2011.41.28.png](Dark)
+![Dark](https://s3.amazonaws.com/f.cl.ly/items/282R3U453h2P2w1N3w02/Screen%20Shot%202015-02-01%20at%2011.41.28.png)
